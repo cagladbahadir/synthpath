@@ -84,13 +84,13 @@ We provide the **largest publicly available digital pathology dataset**:
 - **170K prompt sets** for evaluating zero-shot classification.
 - **Pretrained Models**: SynthPath, SynthPath Context
 
-### **🔹 Download Dataset & Models**
+### **Download Dataset & Models**
 
 **Images**: Please download Quilt1M images from [Quilt1M](https://zenodo.org/records/8239942).
 
 **Captions**: To access the dataset and pretrained models, please **fill out the request form** below:
 
-📄 **[Dataset & Model Access Request Form](https://forms.gle/YOUR-GOOGLE-FORM-LINK)**  
+**[Dataset & Model Access Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfkwAzd-9x-yLZmfdlyvZJ4N0DcEIVtdwaG0irbGBw4FWsnNw/viewform?usp=header)**  
 
 Once approved, you will receive a download link via email.
 
@@ -102,7 +102,7 @@ Once approved, you will receive a download link via email.
 
 ---
 
-## *Usage**
+## *Usage*
 ### **Creating Language Rewrites with Mistral**
 
 >**mistral/mistral_language_rewrites.py** contains prompts used for generating general and context specific rewrites on the Quilt1M dataset.
